@@ -11,3 +11,5 @@ Create a Cake website that allows counter owners to advertise and sell their cak
 
 The goal of this project is to establish a gateway that allows users to update product information securely using the Website and to purchase things online.
 
+Thank You
+
